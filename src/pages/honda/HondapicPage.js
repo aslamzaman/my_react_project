@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import { Container, Row, Col, Button, Form, Table, Modal, Image, Card } from "react-bootstrap";
+import { Container, Row, Col, Button, Form, Modal, Image, Card } from "react-bootstrap";
 import { useParams, Link } from "react-router-dom";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
