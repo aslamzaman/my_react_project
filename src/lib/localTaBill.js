@@ -1,5 +1,5 @@
 
-const LocalTA = ({jsPDF}) => {
+export const LocalTA = ({jsPDF}) => {
     const doc = new jsPDF({
       orientation: 'p',
       unit: 'mm',
